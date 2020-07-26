@@ -5,8 +5,8 @@ const Web3 = require('web3');
 const compileFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDwalletProvider(
-  'thank purse shallow flash young sting decline math unveil story rubber coach',
-  'https://rinkeby.infura.io/v3/40fe8bbd00db49f980863386af612f14'
+  '',//Add metamask mnemonics
+  ''//Add infura link
 );
 //const init_string= 'Hi there';
 const web3 = new Web3(provider);
