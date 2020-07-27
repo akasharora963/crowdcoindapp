@@ -1,4 +1,5 @@
 # CrowdCoinDapp
+A decentralized Application which 'Helps to Bring Campaigns live with help of CrowdFunding'
 #### Set up MetaMask
 Download it from https://metamask.io/ and make its extention to browser  (reference https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28)
 ***
