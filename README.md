@@ -1,8 +1,8 @@
 # CrowdCoinDapp
 A decentralized Application which 'Helps to Bring Campaigns live with help of CrowdFunding'
-#### Set up MetaMask
-Download it from https://metamask.io/ and make its extention to browser  (reference https://medium.com/@followcoin/how-to-install-metamask-88cbdabc1d28)
-***
+
+#### For Working explaination of Project : Check out "https://youtu.be/_yn0nZLPfrk"
+
 #### Getting started
 
 - Install Node.js from https://nodejs.org/en/
@@ -68,6 +68,6 @@ After finalization ,requests fades and hence executed successfully<br/>
 
 #### Add a Request :
 ![image](https://user-images.githubusercontent.com/45670997/88474442-19744f00-cf44-11ea-9742-9e492ae31913.png)
-It is done by campaign manager
-
+It is done by campaign manager <br/>
+Thank you !!
 
